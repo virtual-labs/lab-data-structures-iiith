@@ -2,85 +2,90 @@
   "broadArea": {
     "name": "Computer Science and Engineering",
     "link": "https://vlab.co.in/broad-area-computer-science-and-engineering"
+  },
+  "lab": "Data Structures",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "cse01-iiith.vlabs.ac.in",
+  "introduction": "To understand how various data structures work. To understand some important applictions of various data structures. To familiarize how certain applications can benefit from the choice of data structures.</br></br>Please note:</br>The simulations of this lab have some of the following software dependencies -</br></br>1. Browsers - Firefox 50 and lower versions, Internet Explorer</br>2. Software - Adobe Flash Plugin, Java1.7, Java3D-1.5.2, and IcedTea Plugin.</br></br>We recommend you to use our customized Virtual Box for the smooth running of these simulations.</br></br>Install VirtualBox - Virtual Labs offers a free download of a customized VirtualBox with the required pre-installed software dependencies (Java 1.7, Java3D-1.5.2, IcedTea Plugin, and Adobe Flash Plugin). Please follow the <a href='https://docs.google.com/document/d/1mX0YMtFk4Dxn_vQBJmUJ8pIOPE2hVf6AscJMdLWd9k8/edit'>link</a> to download, install VirtualBox for easy use of Virtual Labs.",
+  "experiments": [
+    {
+      "name": "Number Systems",
+      "short-name": "number-systems",
+      "repo": "https://github.com/virtual-labs/exp-number-systems-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
     },
-    "lab": "Data Structures",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "IIITH",
-    "baseUrl": "cse01-iiith.vlabs.ac.in",
-    "introduction": "To understand how various data structures work. To understand some important applictions of various data structures. To familiarize how certain applications can benefit from the choice of data structures.</br></br>Please note:</br>The simulations of this lab have some of the following software dependencies -</br></br>1. Browsers - Firefox 50 and lower versions, Internet Explorer</br>2. Software - Adobe Flash Plugin, Java1.7, Java3D-1.5.2, and IcedTea Plugin.</br></br>We recommend you to use our customized Virtual Box for the smooth running of these simulations.</br></br>Install VirtualBox - Virtual Labs offers a free download of a customized VirtualBox with the required pre-installed software dependencies (Java 1.7, Java3D-1.5.2, IcedTea Plugin, and Adobe Flash Plugin). Please follow the <a href='https://docs.google.com/document/d/1mX0YMtFk4Dxn_vQBJmUJ8pIOPE2hVf6AscJMdLWd9k8/edit'>link</a> to download, install VirtualBox for easy use of Virtual Labs.",
-    "experiments": [    
-        {
-                "name": "Number Systems",
-                "short-name": "number-systems",
-                "repo": "https://github.com/virtual-labs/exp-number-systems-iiith",
-                "tag": "v1.0.0",
-                "deploy": true
-        },
-        {
-                "name": "Expression Evaluation using Stacks",
-                "short-name": "expression-evaluation",
-                "repo": "https://github.com/virtual-labs/exp-expression-evaluation-iiith",
-                "tag": "v1.0.0",
-                "deploy": true
-        },
-        {
-                "name": "Sorting using Arrays",
-                "short-name": "sorting",
-                "repo": "https://github.com/virtual-labs/exp-sorting-iiith",
-                "tag": "v1.0.0",
-                "deploy": true
-        },
-        {
-                "name": "Polynomials via Linked Lists",
-                "short-name": "polynomials",
-                "repo": "https://github.com/virtual-labs/exp-polynomials-iiith",
-                "tag": "v1.0.0",
-                "deploy": true
-        },
-        {
-                "name": "Search Trees",
-                "short-name": "search-trees",
-                "repo": "https://github.com/virtual-labs/exp-search-trees-iiith",
-                "tag": "v1.0.0",
-                "deploy": true
-        },
-        {
-                "name": "Expression Trees",
-                "short-name": "expression-trees",
-                "repo": "https://github.com/virtual-labs/exp-expression-trees-iiith",
-                "tag": "v1.0.0",
-                "deploy": true
-        },
-        {
-                "name": "Graph Traversals",
-                "short-name": "graph-traversals",
-                "repo": "https://github.com/virtual-labs/exp-graph-traversals-iiith",
-                "tag": "v1.0.0",
-                "deploy": true
-        },
-        {
-                "name": "Shortest Paths in Graphs",
-                "short-name": "shortest-paths",
-                "repo": "https://github.com/virtual-labs/exp-shortest-paths-iiith",
-                "tag": "v1.0.0",
-                "deploy": true
-        },
-        {
-                "name": "Minimum Spanning Trees",
-                "short-name": "minimum-spanning-trees",
-                "repo": "https://github.com/virtual-labs/exp-minimum-spanning-trees-iiith",
-                "tag": "v1.0.0",
-                "deploy": true
-        }
-    ],
-    "targetAudience": {
-        "UG": ["B. Tech./ B.E in Computer Science & Information Technology"],
-        "PG": ["Ph. D. Beginners"]
+    {
+      "name": "Expression Evaluation using Stacks",
+      "short-name": "expression-evaluation",
+      "repo": "https://github.com/virtual-labs/exp-expression-evaluation-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
     },
-    "objective": "To understand how the choice of data structures can lead to efficient implementations of algorithms.",
-    "courseAlignment": {
-        "description": "",
-        "universities": ["The present lab is aligned with courses such as Introduction to Data Structures, Data Structures in C/C++, and the like. The experiments touch on most topics covered in such courses in most curricula."]
+    {
+      "name": "Sorting using Arrays",
+      "short-name": "sorting",
+      "repo": "https://github.com/virtual-labs/exp-sorting-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Polynomials via Linked Lists",
+      "short-name": "polynomials",
+      "repo": "https://github.com/virtual-labs/exp-polynomials-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Search Trees",
+      "short-name": "search-trees",
+      "repo": "https://github.com/virtual-labs/exp-search-trees-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Expression Trees",
+      "short-name": "expression-trees",
+      "repo": "https://github.com/virtual-labs/exp-expression-trees-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Graph Traversals",
+      "short-name": "graph-traversals",
+      "repo": "https://github.com/virtual-labs/exp-graph-traversals-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Shortest Paths in Graphs",
+      "short-name": "shortest-paths",
+      "repo": "https://github.com/virtual-labs/exp-shortest-paths-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Minimum Spanning Trees",
+      "short-name": "minimum-spanning-trees",
+      "repo": "https://github.com/virtual-labs/exp-minimum-spanning-trees-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Computer Science & Information Technology"],
+    "PG": ["Ph. D. Beginners"]
+  },
+  "objective": "To understand how the choice of data structures can lead to efficient implementations of algorithms.",
+  "courseAlignment": {
+    "description": "",
+    "universities": [
+      "The present lab is aligned with courses such as Introduction to Data Structures, Data Structures in C/C++, and the like. The experiments touch on most topics covered in such courses in most curricula."
+    ]
+  },
+  "exp_name": "Minimum Spanning Trees",
+  "exp_short_name": "minimum-spanning-trees",
+  "version": "v0.2.0"
 }
