@@ -4,6 +4,7 @@
     "link": "https://vlab.co.in/broad-area-computer-science-and-engineering"
   },
   "lab": "Data Structures",
+  "lab_display_name": "Data Structures",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",
@@ -14,63 +15,63 @@
       "name": "Number Systems",
       "short-name": "number-systems",
       "repo": "https://github.com/virtual-labs/exp-number-systems-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Expression Evaluation using Stacks",
       "short-name": "expression-evaluation",
       "repo": "https://github.com/virtual-labs/exp-expression-evaluation-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Sorting using Arrays",
       "short-name": "sorting",
       "repo": "https://github.com/virtual-labs/exp-sorting-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Polynomials via Linked Lists",
       "short-name": "polynomials",
       "repo": "https://github.com/virtual-labs/exp-polynomials-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Search Trees",
       "short-name": "search-trees",
       "repo": "https://github.com/virtual-labs/exp-search-trees-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Expression Trees",
       "short-name": "expression-trees",
       "repo": "https://github.com/virtual-labs/exp-expression-trees-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Graph Traversals",
       "short-name": "graph-traversals",
       "repo": "https://github.com/virtual-labs/exp-graph-traversals-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Shortest Paths in Graphs",
       "short-name": "shortest-paths",
       "repo": "https://github.com/virtual-labs/exp-shortest-paths-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Minimum Spanning Trees",
       "short-name": "minimum-spanning-trees",
       "repo": "https://github.com/virtual-labs/exp-minimum-spanning-trees-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
@@ -87,5 +88,5 @@
   },
   "exp_name": "Minimum Spanning Trees",
   "exp_short_name": "minimum-spanning-trees",
-  "version": "v0.4.0"
+  "version": "v0.5.0"
 }
